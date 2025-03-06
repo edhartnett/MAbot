@@ -7,3 +7,10 @@ wikipedia
 langchain-anthropic
 pandas
 streamlit
+langchain_experimental
+langchain
+duckduckgo-search
+wolframalpha
+google-api-python-client
+arxiv
+numexpr

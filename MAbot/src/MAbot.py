@@ -9,11 +9,11 @@ class MAbot:
 
     def main(self):
         print("MAbot main function")
-        api_wrapper = WikipediaAPIWrapper(top_k_results=1, doc_content_chars_max=100)
-        tool = WikipediaQueryRun(api_wrapper=api_wrapper)
-        results = tool.run("Machine Learning")
-        print(results)
-        st.write(results)
+        # api_wrapper = WikipediaAPIWrapper(top_k_results=1, doc_content_chars_max=100)
+        # tool = WikipediaQueryRun(api_wrapper=api_wrapper)
+        # results = tool.run("Machine Learning")
+        # print(results)
+        # st.write(results)
         
 
 if __name__ == "__main__":
