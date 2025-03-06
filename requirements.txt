@@ -5,3 +5,5 @@ langchain_community
 tavily-python 
 wikipedia
 langchain-anthropic
+pandas
+streamlit
